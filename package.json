@@ -37,6 +37,6 @@
   "homepage": "https://github.com/snipcart/stackbit-theme-planty#readme",
   "devDependencies": {
     "npm-watch": "^0.6.0",
-    "set-value": "^2.0.1"
+    "set-value": "^4.0.1"
   }
 }
